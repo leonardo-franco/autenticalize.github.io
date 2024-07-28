@@ -208,6 +208,9 @@ img {
   font-weight: 500;
 }
 
+.info .ip {
+  text-decoration: none;
+}
 @media (max-width: 768px) {
   img {
     width: 150px;
